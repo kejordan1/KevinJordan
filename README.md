@@ -16,7 +16,6 @@
 - **Java 21**: Streams API, JUnit 5, AssertJ  
 - **SQL**: Database Management
 - **HTML & CSS3**
-- **Other**: SQL, GitHub Actions, Docker, data visualization  
 
 ## 📫 Get in Touch
 - kevinjordan36@googlemail.com
